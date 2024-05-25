@@ -1,4 +1,4 @@
-from file_operations import extraer_metadatos
+from src.file_operations import extraer_metadatos
 from tkinter import filedialog
 from tkinterdnd2 import DND_FILES
 

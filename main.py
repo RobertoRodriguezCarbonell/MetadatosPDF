@@ -1,9 +1,11 @@
 import tkinter as tk
 from tkinter import filedialog
 from tkinterdnd2 import TkinterDnD
-from ui_elements import crear_boton, crear_marco, crear_tabla
-from file_operations import exportar_csv, exportar_xlsx
-import handlers
+# from src.ui_elements import crear_boton, crear_marco, crear_tabla
+# importar los elementos que se encuentran en la carpeta src
+from src.ui_elements import crear_boton, crear_marco, crear_tabla
+from src.file_operations import exportar_csv, exportar_xlsx
+import src.handlers as handlers
 
 def configurar_ventana_principal():
     root = TkinterDnD.Tk()
