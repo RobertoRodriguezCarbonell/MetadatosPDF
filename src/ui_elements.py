@@ -38,10 +38,10 @@ def crear_tabla(marco):
                     background="#BBD9FF",
                     foreground="black",
                     rowheight=25,
-                    fieldbackground="#D3D3D3")
+                    fieldbackground="#ff507a")
 
     style.map('Treeview', 
-              background=[('selected', 'blue')])
+              background=[('selected', '#3073ff')])
 
     tabla = ttk.Treeview(marco, columns=("Clave", "Valor"), show='headings', style="Treeview")
     tabla.heading("Clave", text="Clave")
