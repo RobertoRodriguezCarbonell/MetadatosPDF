@@ -57,6 +57,6 @@ Contributions are welcome! If you have any improvements, bug fixes, or new featu
 
 5. Open a Pull Request in this repository.
 
-# <span style="color: #5797ea">Acknowledgements:</span>
+# <span style="color: #5797ea">Thank you:</span>
 
 Thanks to all the collaborators and users who have helped improve this application. If you have any questions or suggestions, feel free to open an issue.
