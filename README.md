@@ -3,60 +3,60 @@
 ![portadarepo.png](./images/portadarepo.png)
 
 ---
-**PDF Metadata** es una aplicación desarrollada en <span style="color: #5797ea">Python</span> con la biblioteca tkinter que permite a los usuarios visualizar los metadatos de un archivo PDF de manera rápida y eficaz. Además, la aplicación ofrece la posibilidad de exportar los resultados en varios formatos diferentes según las necesidades del usuario. 
+**PDF Metadata** is an application developed in <span style="color: #5797ea">Python</span> with the tkinter library that allows users to quickly and efficiently view the metadata of a PDF file. Additionally, the application offers the ability to export the results in various formats according to the user's needs.
 
-## <span style="color: #5797ea">Características:</span>
+## <span style="color: #5797ea">Features:</span>
 
-- Interfaz gráfica intuitiva y fácil de utilizar.
-- Carga y visualización rápida de los metadatos de archivos PDF.
-- Exportación de los metadatos en múltiples formatos (CSV, PDF, XLSX, TXT, JSON Y XML).
+- Intuitive and easy-to-use graphical interface.
+- Fast loading and display of PDF file metadata.
+- Export metadata in multiple formats (CSV, PDF, XLSX, TXT, JSON, and XML).
 
-## <span style="color: #5797ea">Instalación:</span>
+## <span style="color: #5797ea">Installation:</span>
 
-1. Clona este repositorio en tu máquina local:
-```sh
-https://github.com/RobertoRodriguezCarbonell/MetadatosPDF.git
-cd MetadatosPDF
-```
+1. Clone this repository to your local machine:
+    ```sh
+    git clone https://github.com/RobertoRodriguezCarbonell/MetadatosPDF.git
+    cd MetadatosPDF
+    ```
 
-2. Instala las dependencias necesarias:
-```sh
-pip install -r requirements.txt
-```
+2. Install the necessary dependencies:
+    ```sh
+    pip install -r requirements.txt
+    ```
 
-## <span style="color: #5797ea">Uso:</span>
+## <span style="color: #5797ea">Usage:</span>
 
-1. Ejecuta la aplicación:
-```sh
-python main.py
-```
+1. Run the application:
+    ```sh
+    python main.py
+    ```
 
-2. Utiliza la interfaz gráfica para seleccionar el archivo PDF del que deseas ver los metadatos.
+2. Use the graphical interface to select the PDF file whose metadata you want to view.
 
-3. Visualiza los metadatos en la aplicación.
+3. View the metadata in the application.
 
-4. Exporta los metadatos en el formato que prefieras utilizando las opciones diosponibles de exportación.
+4. Export the metadata in the format you prefer using the available export options.
 
-# <span style="color: #5797ea">Contribuciones:</span>
+# <span style="color: #5797ea">Contributions:</span>
 
-¡Las contribuciones son bienvenidas! Si tienes alguna mejora, corrección de errores o nuevas características que te gustaría añadir, por favor sigue estos pasos:
+Contributions are welcome! If you have any improvements, bug fixes, or new features you would like to add, please follow these steps:
 
-1. Haz un fork del repositorio.
+1. Fork the repository.
 
-2. Crea una nueva rama con tus cambios:
-```sh
-git checkout -b your-branch
-```
+2. Create a new branch with your changes:
+    ```sh
+    git checkout -b your-branch
+    ```
 
-3. Realiza tus cambios y haz commits descriptivos.
+3. Make your changes and write descriptive commits.
 
-4. Sube tus cambios a tu fork:
-```sh
-git push origin your-branch
-```
+4. Push your changes to your fork:
+    ```sh
+    git push origin your-branch
+    ```
 
-5. Abre un Pull Request en este repositorio.
+5. Open a Pull Request in this repository.
 
-# <span style="color: #5797ea">Agradecimientos:</span>
+# <span style="color: #5797ea">Acknowledgements:</span>
 
-Gracias a todos los colaboradores y usuarios que han ayudado a mejorar esta aplicación. Si tienes alguna duda o sugerencia, no dudes en abrir un issue. 
+Thanks to all the collaborators and users who have helped improve this application. If you have any questions or suggestions, feel free to open an issue.
